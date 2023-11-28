@@ -2,6 +2,6 @@ class Main
 {
   public static void main (String args[])
   {
-      System.out.print("Hello World I  AM JAVA PROGRAMMING");
+      System.out.println("Hello World I  AM JAVA PROGRAMMING\n\n");
   }
 }
